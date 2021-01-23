@@ -1,3 +1,3 @@
 # Git + Tutorial
 
-git 연습
+git 연습 짱
